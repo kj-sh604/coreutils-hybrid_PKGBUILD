@@ -3,6 +3,7 @@
 # Contributor: Bartłomiej Piotrowski <bpiotrowski@archlinux.org>
 # Contributor: Allan McRae <allan@archlinux.org>
 # Contributor: judd <jvinet@zeroflux.org>
+# Freeloader:  kj_sh604 <kj@aedrielkylejavier.me>
 
 pkgname=coreutils-hybrid
 _pkgname=coreutils
