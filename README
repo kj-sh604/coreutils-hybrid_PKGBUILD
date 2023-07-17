@@ -1,0 +1,12 @@
+my own PKGBUILD for the `coreutils-hybrid` package found in the AUR 
+
+added the following uutils:
+• date
+• tail
+• ls
+
+removed the following uutils:
+• tr (for password generatin in pass)
+
+
+I've also decided to use the GNU coreutils 9.3 package and the rust uutils 0.0.20 package
