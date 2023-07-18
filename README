@@ -1,11 +1,12 @@
 my own PKGBUILD for the `coreutils-hybrid` package found in the AUR 
 
-added the following uutils:
+added the following rust uutils to the original PKGBUILD:
 • date
 • tail
 • ls
+• ln
 
-removed the following uutils:
+removed the following rust uutils from the original PKGBUILD:
 • tr (for password generatin in pass)
 
 
