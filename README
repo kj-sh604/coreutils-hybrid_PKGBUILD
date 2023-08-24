@@ -7,7 +7,7 @@ added the following rust uutils to the original PKGBUILD:
 • ln
 
 removed the following rust uutils from the original PKGBUILD:
-• tr (for password generatin in pass)
+• tr (for password generation in pass)
 
 
 I've also decided to use the GNU coreutils 9.3 package and the rust uutils 0.0.20 package
