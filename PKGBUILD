@@ -8,9 +8,9 @@
 pkgname=coreutils-hybrid
 _pkgname=coreutils
 __pkgname=uutils-coreutils
-pkgver=9.3_0.0.20
-_pkgver=9.3
-__pkgver=0.0.20
+pkgver=9.4_0.0.21
+_pkgver=9.4
+__pkgver=0.0.21
 pkgrel=1
 pkgdesc='GNU coreutils / uutils-coreutils hybrid package. Uses stable uutils programs mixed with GNU counterparts if uutils counterpart is unfinished / buggy'
 arch=('x86_64')
