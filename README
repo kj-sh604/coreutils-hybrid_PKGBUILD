@@ -10,4 +10,4 @@ removed the following rust uutils from the original PKGBUILD:
 • tr (for password generation in 𝚙𝚊𝚜𝚜)
 
 
-I've also decided to use the GNU coreutils 9.4 package and the rust uutils 0.0.22 package
+I've also decided to use the GNU coreutils 9.4 package and the rust uutils 0.0.23 package
