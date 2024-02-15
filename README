@@ -5,9 +5,6 @@ added the following rust uutils to the original PKGBUILD:
 • tail
 • ls
 • ln
-
-removed the following rust uutils from the original PKGBUILD:
-• tr (for password generation in 𝚙𝚊𝚜𝚜)
-
+• printf
 
 I've also decided to use the GNU coreutils 9.4 package and the rust uutils 0.0.24 package
