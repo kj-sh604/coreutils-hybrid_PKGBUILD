@@ -67,6 +67,6 @@ package() {
   # clean conflicts, arch ships these in other apps
   cd $pkgdir/usr/bin
   rm groups hostname kill more uptime
-
   rm $pkgdir/usr/share/bash-completion/completions/*
+  rm $pkgdir/usr/share/man/man1/{groups.1,hostname.1,kill.1,more.1,uptime.1}
 }
