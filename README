@@ -1,10 +1,1 @@
-my own PKGBUILD for the `coreutils-hybrid` package found in the AUR 
-
-added the following rust uutils to the original PKGBUILD:
-• date
-• tail
-• ls
-• ln
-• printf
-
-I've also decided to use the GNU coreutils 9.4 package and the rust uutils 0.0.24 package
+my personalized PKGBUILD of the `coreutils-hybrid` package found in the AUR 
