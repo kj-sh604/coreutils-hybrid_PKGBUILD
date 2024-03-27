@@ -1,11 +1,11 @@
 pkgname=coreutils-hybrid
-pkgver=9.4_0.0.24
+pkgver=9.4_0.0.25
 pkgrel=604
 pkgdesc='GNU coreutils / uutils-coreutils hybrid package. Uses stable uutils programs mixed with GNU counterparts if uutils counterpart is unfinished / buggy'
 gnu_coreutils=coreutils
 rust_uutils=uutils-coreutils
 gnu_coreutils_version=9.4
-rust_uutils_version=0.0.24
+rust_uutils_version=0.0.25
 arch=('x86_64')
 license=('GPL3' 'MIT')
 url='https://www.gnu.org/software/coreutils/'
